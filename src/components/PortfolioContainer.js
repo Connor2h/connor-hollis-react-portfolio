@@ -10,7 +10,7 @@ export default function PortfolioContainer() {
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
-    if (currentPage === 'Home') {
+    if (currentPage === 'Portfolio') {
       return <Home />;
     }
     if (currentPage === 'About') {
@@ -26,7 +26,10 @@ export default function PortfolioContainer() {
 
   return (
     <div>
-      <header>
+      <header className = "d-flex justify-content-between">
+      <h1>
+        Connor Hollis
+      </h1>
       {/* We are passing the currentPage from state and the function to update it */}
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
