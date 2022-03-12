@@ -4,6 +4,7 @@ export default function ProjectCard(props) {
 
     return (
         <div>
+            <img alt="" src={props.img}></img>
             <p>
                 {props.name}
             </p>
