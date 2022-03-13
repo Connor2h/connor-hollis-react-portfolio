@@ -6,12 +6,8 @@ export default function Home() {
     <div>
       <div class="jumbotron">
         <h1 class="d-flex display-4 justify-content-center">Projects!</h1>
-        <p class ="lead">
-        <a class ="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-        </p>
       </div>
       <div className="jumbotron justify content-center">
-        <h1 className="m-3 jumbotron">Projects</h1>
         <ProjectList></ProjectList>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque

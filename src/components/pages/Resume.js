@@ -3,7 +3,9 @@ import React from 'react';
 export default function Resume() {
   return (
     <div>
-      <h1>Resume Page</h1>
+      <div class="jumbotron">
+        <h1 class="d-flex display-4 justify-content-center">Resume!</h1>
+      </div>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
         Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu

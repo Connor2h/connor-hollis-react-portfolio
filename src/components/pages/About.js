@@ -3,7 +3,9 @@ import React from 'react';
 function About() {
   return (
     <div>
-      <h1>About Me Page</h1>
+      <div class="jumbotron">
+        <h1 class="d-flex display-4 justify-content-center">About Me!</h1>
+      </div>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
         Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
