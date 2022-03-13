@@ -1,10 +1,12 @@
 import React from 'react';
+import me from "../../assets/images/me.jpg";
 
 function About() {
   return (
     <div>
       <div class="jumbotron">
         <h1 class="d-flex display-5 justify-content-center">About Me!</h1>
+      <img alt="" src={me} width="300" className="rounded"></img>
       </div>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.

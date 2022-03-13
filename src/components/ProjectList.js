@@ -19,7 +19,7 @@ const ProjectList = () => {
         },
 
         {
-            name: "test2",
+            name: "Weather To Walk",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: weatherToWalk,
             tech: "",
@@ -28,7 +28,7 @@ const ProjectList = () => {
         },
 
         {
-            name: "test3",
+            name: "Run Buddy",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: runbuddy,
             tech: "",
@@ -37,7 +37,7 @@ const ProjectList = () => {
         },
 
         {
-            name: "test2",
+            name: "Puzzle",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: pastel,
             tech: "",
@@ -46,7 +46,7 @@ const ProjectList = () => {
         },
 
         {
-            name: "test2",
+            name: "Calculator",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: calculator,
             tech: "",
@@ -55,7 +55,7 @@ const ProjectList = () => {
         },
 
         {
-            name: "test2",
+            name: "LED",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: led,
             tech: "",

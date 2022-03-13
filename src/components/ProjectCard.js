@@ -3,7 +3,7 @@ import React from "react";
 export default function ProjectCard(props) {
 
     return (
-            <div class="container">
+            <div className="container">
                 <div class="row">
                     <div class="col-12">
                         <h2>{props.name}</h2>
@@ -14,9 +14,9 @@ export default function ProjectCard(props) {
                     <div class="col-4 d-none d-lg-block">
                         <p>{props.description}</p>
                     </div>
-                    <div class="col-12 d-none d-lg-block">
+                    {/* <div class="col-12 d-none d-lg-block">
                         <h2>{props.name}</h2>
-                    </div>
+                    </div> */}
                 </div>
             </div>
     )
