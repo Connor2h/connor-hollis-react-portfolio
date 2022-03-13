@@ -6,7 +6,7 @@ import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('About');//set page when first loaded
+  const [currentPage, setCurrentPage] = useState('Portfolio');//set page when first loaded
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
@@ -35,7 +35,7 @@ export default function PortfolioContainer() {
       {/* Here we are calling the renderPage method which will return a component  */}
       </header>
       
-      <main>
+      <main class='display-10'>
       {renderPage()}
       </main>
 

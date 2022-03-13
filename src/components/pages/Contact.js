@@ -39,7 +39,7 @@ function ContactForm() {
   return (
     <section>
       <div class="jumbotron">
-        <h1 class="d-flex display-4 justify-content-center">Contact Me!</h1>
+        <h1 class="d-flex display-5 justify-content-center">Contact Me!</h1>
       </div>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>

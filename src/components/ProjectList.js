@@ -10,8 +10,8 @@ import led from "../assets/images/led.jpg";
 const ProjectList = () => {
     const [projects] = useState([
         {
-            name: "test1",
-            description: "description test",
+            name: "ElonCoin",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: elonCoin,
             tech: "",
             github: "github test",
@@ -20,7 +20,7 @@ const ProjectList = () => {
 
         {
             name: "test2",
-            description: "description test",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: weatherToWalk,
             tech: "",
             github: "github test",
@@ -29,7 +29,7 @@ const ProjectList = () => {
 
         {
             name: "test3",
-            description: "description test",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: runbuddy,
             tech: "",
             github: "github test",
@@ -38,7 +38,7 @@ const ProjectList = () => {
 
         {
             name: "test2",
-            description: "description test",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: pastel,
             tech: "",
             github: "github test",
@@ -47,7 +47,7 @@ const ProjectList = () => {
 
         {
             name: "test2",
-            description: "description test",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: calculator,
             tech: "",
             github: "github test",
@@ -56,7 +56,7 @@ const ProjectList = () => {
 
         {
             name: "test2",
-            description: "description test",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
             img: led,
             tech: "",
             github: "github test",

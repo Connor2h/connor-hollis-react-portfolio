@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <div class="jumbotron">
-        <h1 class="d-flex display-4 justify-content-center">About Me!</h1>
+        <h1 class="d-flex display-5 justify-content-center">About Me!</h1>
       </div>
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.

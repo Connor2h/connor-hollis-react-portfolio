@@ -4,7 +4,7 @@ export default function Resume() {
   return (
     <div>
       <div class="jumbotron">
-        <h1 class="d-flex display-4 justify-content-center">Resume!</h1>
+        <h1 class="d-flex display-5 justify-content-center">Resume!</h1>
       </div>
       <p>
         Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
