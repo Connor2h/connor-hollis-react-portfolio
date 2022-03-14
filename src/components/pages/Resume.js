@@ -1,26 +1,57 @@
 import React from 'react';
+import resume from "../../assets/resume/Connor-Hollis-Full-Stack-Developer-Resume-Template.pdf"
+import resumeImage from "../../assets/images/resume.JPG"
 
 export default function Resume() {
   return (
     <div>
       <div class="jumbotron">
-        <h1 class="d-flex display-5 justify-content-center">Resume!</h1>
+        <h1 class="d-flex display-5 justify-content-center mb-5">Resume!</h1>
       </div>
-      <p>
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
-      </p>
+      <div className="container justify-content-center">
+        <div class="row">
+          <div class="col">
+            <h2 className="">Front-End</h2>
+            <ul className="">
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascript</li>
+              <li>JQuery</li>
+              <li>React</li>
+              <li>Responsive Design</li>
+              <li>Bootstrap</li>
+              <li>Materialize</li>
+            </ul>
+          </div>
+          <div class="col">
+            <h2 className="">Back-End</h2>
+            <ul className="">
+              <li>APIs</li>
+              <li>REST</li>
+              <li>Node</li>
+              <li>Express</li>
+              <li>MySql</li>
+              <li>Sequalize</li>
+              <li>Mongo</li>
+              <li>Mongoose</li>
+              <li>React</li>
+              <li>GraphQL</li>
+            </ul>
+          </div>
+          <div class="col">
+            <h2 className="">
+            <a href={resume} download>Resume Download</a>
+            </h2>
+            <img src={resumeImage} width="1000"alt="connor hollis resume" />
+          </div>
+
+        </div>
+      </div>
     </div>
+
+
+
+
+
   );
 }
