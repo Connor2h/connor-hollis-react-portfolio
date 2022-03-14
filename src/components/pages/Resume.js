@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from "../../assets/resume/Connor-Hollis-Full-Stack-Developer-Resume-Template.pdf"
+import resume from "../../assets/resume/resume.pdf"
 import resumeImage from "../../assets/images/resume.JPG"
 
 export default function Resume() {
