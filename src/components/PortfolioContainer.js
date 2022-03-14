@@ -40,6 +40,7 @@ export default function PortfolioContainer() {
         <main class='display-10'>
           {renderPage()}
         </main>
+
       </div>
 
     </div>

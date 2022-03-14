@@ -13,6 +13,12 @@ export default function ProjectCard(props) {
                     </div>
                     <div class="col-4 d-none d-lg-block">
                         <p>{props.description}</p>
+                        <p>
+                        <a href={props.github}>Deployed Application: {props.github}</a>
+                        </p>
+                        <p>
+                        <a href={props.deployedLink}>Github Link: {props.deployedLink}</a>
+                        </p>
                     </div>
                     {/* <div class="col-12 d-none d-lg-block">
                         <h2>{props.name}</h2>
