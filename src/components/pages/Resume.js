@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from "../../assets/resume/resume.pdf"
+//import resume from "../../assets/resume/resume.pdf"
 import resumeImage from "../../assets/images/resume.JPG"
 
 export default function Resume() {
@@ -40,7 +40,7 @@ export default function Resume() {
           </div>
           <div class="col">
             <h2 className="">
-            <a href={resume} download>Resume Download</a>
+            {/* <a href={resume} download>Resume Download</a> */}
             </h2>
             <img src={resumeImage} width="1000"alt="connor hollis resume" />
           </div>
