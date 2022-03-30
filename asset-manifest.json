@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/connor-hollis-react-portfolio/static/css/main.bb301aae.css",
-    "main.js": "/connor-hollis-react-portfolio/static/js/main.8ab74eb2.js",
+    "main.js": "/connor-hollis-react-portfolio/static/js/main.51a47fbf.js",
     "static/media/calculator.jpg": "/connor-hollis-react-portfolio/static/media/calculator.52292b2b2b369a437b56.jpg",
     "static/media/led.jpg": "/connor-hollis-react-portfolio/static/media/led.1e4f93e3a38f51bdc04b.jpg",
     "static/media/me.jpg": "/connor-hollis-react-portfolio/static/media/me.0fd8d6d5b80ebf4a8e2a.jpg",
@@ -14,10 +14,10 @@
     "static/media/weatherToWalk.JPG": "/connor-hollis-react-portfolio/static/media/weatherToWalk.7d6da68efbe1f3c6ba08.JPG",
     "index.html": "/connor-hollis-react-portfolio/index.html",
     "main.bb301aae.css.map": "/connor-hollis-react-portfolio/static/css/main.bb301aae.css.map",
-    "main.8ab74eb2.js.map": "/connor-hollis-react-portfolio/static/js/main.8ab74eb2.js.map"
+    "main.51a47fbf.js.map": "/connor-hollis-react-portfolio/static/js/main.51a47fbf.js.map"
   },
   "entrypoints": [
     "static/css/main.bb301aae.css",
-    "static/js/main.8ab74eb2.js"
+    "static/js/main.51a47fbf.js"
   ]
 }
