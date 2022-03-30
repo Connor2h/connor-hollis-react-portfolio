@@ -6,9 +6,18 @@ import runbuddy from "../assets/images/runbuddy.JPG";
 import pastel from "../assets/images/pastel.jpg";
 import calculator from "../assets/images/calculator.jpg";
 import led from "../assets/images/led.jpg";
+import atanime from "../assets/images/atanime.JPG";
 
 const ProjectList = () => {
     const [projects] = useState([
+        {
+            name: "AtAnime",
+            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
+            img: atanime,
+            tech: "",
+            github: "https://github.com/Connor2h/A-T-Anime",
+            deployedLink: "https://atanime.herokuapp.com/"
+        },
         {
             name: "ElonCoin",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
