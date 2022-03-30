@@ -3,9 +3,6 @@ import ProjectCard from "./ProjectCard";
 import elonCoin from "../assets/images/eloncoin.JPG";
 import weatherToWalk from "../assets/images/weatherToWalk.JPG";
 import runbuddy from "../assets/images/runbuddy.JPG";
-import pastel from "../assets/images/pastel.jpg";
-import calculator from "../assets/images/calculator.jpg";
-import led from "../assets/images/led.jpg";
 import atanime from "../assets/images/atanime.JPG";
 
 const ProjectList = () => {
