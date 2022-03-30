@@ -45,32 +45,6 @@ const ProjectList = () => {
             deployedLink: "https://connor2h.github.io/run-buddy/"
         },
 
-        {
-            name: "Puzzle",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
-            img: pastel,
-            tech: "",
-            github: "github test",
-            deployedLink: "deployedLink"
-        },
-
-        {
-            name: "Calculator",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
-            img: calculator,
-            tech: "",
-            github: "github test",
-            deployedLink: "deployedLink"
-        },
-
-        {
-            name: "LED",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nequevelit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisiac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Crasnon risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdietac. Sed nec nulla aliquam, bibendum odio eget, vestibulumortor. Cras rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat porttitor. Vestibulum molestie hendrerit massa",
-            img: led,
-            tech: "",
-            github: "github test",
-            deployedLink: "deployedLink"
-        },
     ])
 
     return (
