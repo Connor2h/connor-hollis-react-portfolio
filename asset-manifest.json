@@ -1,23 +1,20 @@
 {
   "files": {
     "main.css": "/connor-hollis-react-portfolio/static/css/main.bb301aae.css",
-    "main.js": "/connor-hollis-react-portfolio/static/js/main.51a47fbf.js",
-    "static/media/calculator.jpg": "/connor-hollis-react-portfolio/static/media/calculator.52292b2b2b369a437b56.jpg",
-    "static/media/led.jpg": "/connor-hollis-react-portfolio/static/media/led.1e4f93e3a38f51bdc04b.jpg",
+    "main.js": "/connor-hollis-react-portfolio/static/js/main.cf32fba9.js",
     "static/media/me.jpg": "/connor-hollis-react-portfolio/static/media/me.0fd8d6d5b80ebf4a8e2a.jpg",
     "static/media/runbuddy.JPG": "/connor-hollis-react-portfolio/static/media/runbuddy.e86b1e4f988945941889.JPG",
     "static/media/resume.pdf": "/connor-hollis-react-portfolio/static/media/resume.4dba5b2817b1c2e37612.pdf",
     "static/media/atanime.JPG": "/connor-hollis-react-portfolio/static/media/atanime.fae2cb71faab29be716f.JPG",
     "static/media/eloncoin.JPG": "/connor-hollis-react-portfolio/static/media/eloncoin.146a60dde3b0ff4b5b62.JPG",
     "static/media/resume.JPG": "/connor-hollis-react-portfolio/static/media/resume.38c4dd1e93dd1b5f614e.JPG",
-    "static/media/pastel.jpg": "/connor-hollis-react-portfolio/static/media/pastel.b0df795cc7890ee0ea36.jpg",
     "static/media/weatherToWalk.JPG": "/connor-hollis-react-portfolio/static/media/weatherToWalk.7d6da68efbe1f3c6ba08.JPG",
     "index.html": "/connor-hollis-react-portfolio/index.html",
     "main.bb301aae.css.map": "/connor-hollis-react-portfolio/static/css/main.bb301aae.css.map",
-    "main.51a47fbf.js.map": "/connor-hollis-react-portfolio/static/js/main.51a47fbf.js.map"
+    "main.cf32fba9.js.map": "/connor-hollis-react-portfolio/static/js/main.cf32fba9.js.map"
   },
   "entrypoints": [
     "static/css/main.bb301aae.css",
-    "static/js/main.51a47fbf.js"
+    "static/js/main.cf32fba9.js"
   ]
 }
